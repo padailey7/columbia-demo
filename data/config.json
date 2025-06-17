@@ -3,7 +3,7 @@
   "documentName": "Hamilton Letter",
   "iiifManifest": "/columbia-demo/hamilton/iiif/manonifest.json",
   "transcriptionTypes": {
-    "transcription": "Transcription"
+    "text": "Transcription"
   },
   "viewerUrl": "/columbia-demo"
 }
